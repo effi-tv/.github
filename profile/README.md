@@ -1,12 +1,6 @@
-## Hi there 👋
+<img src="https://user-images.githubusercontent.com/1848799/236718324-d7d31175-667c-4732-a2b4-858c1b932b12.png" alt="EFFI Logo" style="width: 100px;">
 
-<!--
+# EFFI
+> The future of content is social and participatory.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Enhance your livestreams with our interactive and branded widgets to create engaging experiences for your audience and partners.
